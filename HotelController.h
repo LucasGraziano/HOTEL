@@ -1,0 +1,7 @@
+#ifndef HOTELCONTROLLER_H_INCLUDED
+#define HOTELCONTROLLER_H_INCLUDED
+
+
+int rodarController();
+
+#endif // HOTELCONTROLLER_H_INCLUDED
